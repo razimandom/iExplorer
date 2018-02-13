@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1b84885-c33b-41be-b5ec-9014189680bc" name="Default" comment="Initial creation of git for iExplorer website">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-career.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-career02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-contact.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-customer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-customer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-dark-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-dark-02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-dark-03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-mission.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-team.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/bg-team.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/career01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/career02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/career03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/customer01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/customer02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/customer03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/service01.png" afterPath="$PROJECT_DIR$/src/images/service01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/service02.png" afterPath="$PROJECT_DIR$/src/images/service02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/service03.png" afterPath="$PROJECT_DIR$/src/images/service03.png" />
+    <list default="true" id="f1b84885-c33b-41be-b5ec-9014189680bc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scss/styles.scss" afterPath="$PROJECT_DIR$/src/scss/styles.scss" />
     </list>
     <ignored path=".idea/" />
     <ignored path="document/" />
@@ -43,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="516" column="45" lean-forward="false" selection-start-line="516" selection-start-column="45" selection-end-line="516" selection-end-column="45" />
+            <state relative-caret-position="418">
+              <caret line="310" column="33" lean-forward="false" selection-start-line="310" selection-start-column="33" selection-end-line="310" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -318,7 +297,7 @@
       <workItem from="1518332188776" duration="19199000" />
       <workItem from="1518360754045" duration="120000" />
       <workItem from="1518364581222" duration="4032000" />
-      <workItem from="1518491979132" duration="13760000" />
+      <workItem from="1518491979132" duration="15194000" />
     </task>
     <task id="LOCAL-00001" summary="Initial creation of git for iExplorer website">
       <created>1518360500069</created>
@@ -327,11 +306,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518360500070</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Website completed R1">
+      <created>1518519459560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518519459560</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37111000" />
+    <option name="totallyTimeSpent" value="38545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -400,7 +386,8 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Initial creation of git for iExplorer website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial creation of git for iExplorer website" />
+    <MESSAGE value="Website completed R1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Website completed R1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -512,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="516" column="45" lean-forward="false" selection-start-line="516" selection-start-column="45" selection-end-line="516" selection-end-column="45" />
+        <state relative-caret-position="418">
+          <caret line="310" column="33" lean-forward="false" selection-start-line="310" selection-start-column="33" selection-end-line="310" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
