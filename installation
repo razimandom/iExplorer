@@ -1,0 +1,6 @@
+mkdir iExplorer && cd iExplorer
+npm init -y
+npm i gulp browser-sync gulp-sass --save-dev
+npm i --global gulp-cli
+npm i bootstrap jquery popper.js --save
+gulp
